@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "368094864012",
+    "project_id": "chat-telyu",
+    "storage_bucket": "chat-telyu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368094864012:android:1a8b8a7242052b4d2791a9",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368094864012-ma9utqoe9tokneh7e4hptt5rpboc2i5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "08317371e07c0c1508be91fc280b73326fddd945"
+          }
+        },
+        {
+          "client_id": "368094864012-2l1jvk1mj14sj9g9lvgitjqp7ars0lds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG9uWxeOHfFdVnmrTTZ6ltER7Wj3L7dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368094864012-2l1jvk1mj14sj9g9lvgitjqp7ars0lds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368094864012-8rhvd1qp4mbjep82ukagtn07d6hinb6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
